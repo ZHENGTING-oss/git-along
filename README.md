@@ -2,7 +2,6 @@
 Bonjour
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ante ligula, molestie et porttitor sed, gravida eu mi. Praesent sed accumsan nulla. Ut ipsum lectus, mattis a sem id, venenatis imperdiet massa. Vestibulum tincidunt tincidunt suscipit. Vestibulum viverra sollicitudin turpis sed fringilla. Vivamus quis leo nec justo viverra maximus in a enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent volutpat diam nec urna elementum euismod.
 
 Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam porta tortor ante, faucibus tincidunt dolor egestas et. Curabitur lacus dolor, molestie id condimentum vel, dictum tincidunt nibh. Maecenas vel lectus semper, efficitur velit at, efficitur purus. Curabitur et purus ac diam vestibulum vestibulum sit amet eget arcu. Donec vestibulum massa quis dolor molestie pharetra. Etiam elementum quam diam, sit amet consequat orci bibendum id. Praesent pretium nisl vitae eros tempus, eget placerat dui pellentesque. Curabitur quis pharetra mauris, a lobortis lectus. Maecenas nec sodales massa. Ut nisi eros, sollicitudin at congue id, tincidunt et nibh. Mauris ultricies tellus in enim volutpat gravida.
 
